@@ -1,0 +1,13 @@
+﻿body {
+}
+
+#companyJumboLogo {
+    text-align: center;
+    display: inline-block;
+    padding-left: 20%;
+    color: pink !important;
+}
+
+.regionButtons {
+    padding-left: 20%;
+}
