@@ -1,0 +1,10 @@
+c:\users\duboisj\documents\visual studio 2015\Projects\TestMySQL\TestMySQL\bin\Debug\TestMySQL.exe.config
+c:\users\duboisj\documents\visual studio 2015\Projects\TestMySQL\TestMySQL\bin\Debug\TestMySQL.exe
+c:\users\duboisj\documents\visual studio 2015\Projects\TestMySQL\TestMySQL\bin\Debug\TestMySQL.pdb
+c:\users\duboisj\documents\visual studio 2015\Projects\TestMySQL\TestMySQL\bin\Debug\MySql.Data.dll
+c:\users\duboisj\documents\visual studio 2015\Projects\TestMySQL\TestMySQL\obj\Debug\TestMySQL.csprojResolveAssemblyReference.cache
+c:\users\duboisj\documents\visual studio 2015\Projects\TestMySQL\TestMySQL\obj\Debug\TestMySQL.Form1.resources
+c:\users\duboisj\documents\visual studio 2015\Projects\TestMySQL\TestMySQL\obj\Debug\TestMySQL.Properties.Resources.resources
+c:\users\duboisj\documents\visual studio 2015\Projects\TestMySQL\TestMySQL\obj\Debug\TestMySQL.csproj.GenerateResource.Cache
+c:\users\duboisj\documents\visual studio 2015\Projects\TestMySQL\TestMySQL\obj\Debug\TestMySQL.exe
+c:\users\duboisj\documents\visual studio 2015\Projects\TestMySQL\TestMySQL\obj\Debug\TestMySQL.pdb
